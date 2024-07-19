@@ -52,10 +52,6 @@ Welcome to the Health Management App! This application helps users monitor and m
 
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## 🙌 Acknowledgements
 
 - Google for providing the Gemini Pro Vision API.
